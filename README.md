@@ -1,2 +1,8 @@
 # Musescore-Note-Names-DoReMiFa-On-NoteHeads-ON-OFF
-Musescore Note Names Plugin (ON/OFF) (toggle note names color white/black)
+
+**notenameonnoteheadADD.qml**
+Musescore Plugin ADD Note Names (Do Re Mi Fa Sol La Si) on the note head.
+
+**notenameonnoteheadOnOff.qml**
+Musescore Plugin toggle Note Names color white/black (ON/OFF)
+
